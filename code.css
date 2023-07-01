@@ -1,0 +1,21 @@
+body{
+    background:linear-gradient(blue 30%, orange 25%, rgb(15, 224, 15) 40%);
+    text-align: center;
+}
+.ul{
+    list-style: none;
+    position: absolute;
+    z-index: 10;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+}
+.li{
+    float: left;
+    padding-top: 5px;
+    padding-right: 9px;
+    padding-left: 9px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    font-family: 'Bacasime Antique', serif;
+}
